@@ -6,3 +6,4 @@ This app was built using HTML, CSS, and Javascript. To obtain the weather foreca
 There are no necessary dependencies or downloads to use this app. Simply download the source code and open up the "index.html" file in your browser of choice. 
 
 
+# weather-app
