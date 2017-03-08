@@ -1,14 +1,14 @@
 body {
   padding: 45px 0;
+  background-color: #0b3354;
+  height: 100%;
   font-family: 'Montserrat', sans-serif, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   background-image: url('https://static.pexels.com/photos/6870/city-dark-new-york-bridge.jpg');
   !important;
-  height: 100%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: #0b3354;
 }
 
 /*Styles for the weather div where weather info will go*/
@@ -70,7 +70,7 @@ body {
   letter-spacing: 2px;
   text-transform: uppercase !important;
 }
-.weather-updated: {
+.weather-updated{
   text-transform: lowercase;
   font-weight: 200;
   text-align: center;
