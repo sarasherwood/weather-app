@@ -1,6 +1,6 @@
 # weather-app
-Tailored for the 11218 area code in Brooklyn. The main goal of the app is to provide accurate, up to date 5 day weather report.   
+Tailored for the NYC area. The main goal of the app is to provide accurate, up to date 5 day weather report.   
 ## Getting Started
-These instructions will walk you through the steps to test the weather app out for yourself, without needing a local setup. 
+This app was built using HTML, CSS, and Javascript. To obtain the weather forecast, I chose "simpleweather.js", which is a jquery plugin that relies on Yahoo's API. 
 
 
